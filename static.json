@@ -1,7 +1,8 @@
 {
   "headers":{
     "/*": {
-      "X-Author": "stolli"
+      "X-Author": "stolli",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
