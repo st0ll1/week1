@@ -1,5 +1,7 @@
 {
   "headers":{
-    
+    "/*": {
+      "X-Author": "stolli"
+    }
   }
 }
