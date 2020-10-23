@@ -2,7 +2,7 @@
   "headers":{
     "/*": {
       "X-Author": "stolli",
-      "Content-Type": "text/plain; charset=UTF-8"
+      "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
     }
   }
