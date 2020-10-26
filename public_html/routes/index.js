@@ -3,7 +3,7 @@ const listEndpoints = require('express-list-endpoints')
 let app = require('express')();
 var x = 2;
 
-app.route('/')
+app.route('/sample/')
     // .all(function (req, res) {
     //     // Handle request
     // })
